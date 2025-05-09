@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721994945510",
+    "project_id": "authercationtaskapp",
+    "storage_bucket": "authercationtaskapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721994945510:android:310b16ef2c5f5fc595fc27",
+        "android_client_info": {
+          "package_name": "com.example.app_ck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721994945510-oi08isn4p8buv79d5s9tl4jkvp6clpc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_ck",
+            "certificate_hash": "61d848cd4b25548f33ff79a4d55aba38d14ee948"
+          }
+        },
+        {
+          "client_id": "721994945510-abjd3c7bakl70d9nenepueardfiqsk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrj2thI4DmJ4lRunZA_tA4OJ4RTpalD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721994945510-abjd3c7bakl70d9nenepueardfiqsk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
